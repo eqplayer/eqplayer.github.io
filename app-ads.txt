@@ -1,4 +1,5 @@
 google.com, pub-9493475091564683, DIRECT, f08c47fec0942fa0
+facebook.com, 3938075059760713, DIRECT, c3e20eee3f780d68
 inmobi.com, eec04983e5fe43e69bf1577453a181ae, DIRECT, 83e75a7ae333ca9d
 applovin.com, 95b0e187703a88ea30494bf9d2a99540, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
